@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Ayush!👋
 
-<!--
-**Ayush666k/Ayush666k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building web applications and open-source projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Python, Django, JavaScript, mongodb 
+- Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Machine Learning
+- DevOps
+
+## 🔭 I’m currently working on ... 
+### **Product Discovery and Recommendation System**
+A personal project to help users discover and select the right products based on their preferences.
+
+#### **What I've Done:**
+- Integrated APIs for product search and web scraping for missing data.
+- Built the front-end and back-end using Django and React.
+- Set up MongoDB as the database.
+
+#### **What's Next:**
+- Add an AI model for personalized recommendations.
+- Implement recommendation logic based on user inputs.
+- Improve the product selection algorithm for better accuracy.
+
+## 🤔 I’m looking for help with ...
+- **AI/ML Expertise:** Guidance on building and integrating a recommendation model.
+- **DevOps:** Best practices for deploying and scaling the application.
+- **Collaboration:** Open to collaborating with developers, designers, or data scientists.
+ 
+
+## 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/ayush-kumavat-366b09217)
